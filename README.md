@@ -18,4 +18,4 @@ Predict diabetes using an XGBoost model trained on health metrics.
 git clone https://github.com/yourusername/diabetes-prediction.git
 cd diabetes-prediction
 
-![Screenshot 2025-07-03 144350](https://github.com/user-attachments/assets/d41249c0-8835-4701-bf82-54b15fb42216)
+![image](https://github.com/user-attachments/assets/ac750fa3-1654-40ca-a964-284948de88c3)
